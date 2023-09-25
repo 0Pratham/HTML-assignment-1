@@ -1,0 +1,7 @@
+Task 2 : Explain purpose of comments in html and provide an example to how to use comments in an HTML documents ?
+Ans : The purpose of comments is to stop the rendering of content in HTML.
+          By , commenting that content is just not displayed in web browser , but it not gone        
+          Away from our web page .
+          Example :   <!--  <h1>Prathamesh </h2> →
+		in this , prathamesh will not be visible on web page.
+	Or we also use shortcut . firstly select the data we want comment and after that press ctrl+ /(forward slash)

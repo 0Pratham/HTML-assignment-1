@@ -1,0 +1,3 @@
+Task 5 : What is DOCTYPE declaration in html ?
+Ans : DOCTYPE  declaration indicates that , we are trying to render HTML page in web 
+	Browser . declaration : <!DOCTYPE html>

@@ -1,0 +1,11 @@
+Task 4 : write a short note on tag and elements with an example ?
+Ans : There are of two types of tags .
+	   1> Start tag 
+	   2> End tag
+          	Start tag indicates beginning of element and end tag indicated end of element.
+		There are different types of tags , distributed on their work .
+		Generally , HTML is only how to use and tags .
+		Element ->  a structure from start tag to end tag .
+		Example : <h1> Pratham </h1> 
+			In this , h1 is tag , <h1> : Start tag and </h2> : End tag
+			And complete thing is element
